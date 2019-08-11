@@ -1,10 +1,10 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=mmfd
-PKG_SOURCE_DATE:=2019-07-20
+PKG_SOURCE_DATE:=2019-08-07
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=https://github.com/freifunk-gluon/mmfd.git
-PKG_SOURCE_VERSION:=3c4ce688e40c32e7dfbf945d9f224353fe5d8363
+PKG_SOURCE_URL:=https://github.com/freifunk-gluon/mmfd.git
+PKG_SOURCE_VERSION:=038590c252fe17ba7ba1e4e6d662e21126cf91f0
 
 PKG_BUILD_DEPENDS += libjson-c
 
